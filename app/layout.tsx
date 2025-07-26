@@ -10,9 +10,9 @@ const outfit = Outfit({
 })
 
 export const metadata: Metadata = {
-  title: "CognitionX | Assignment 8",
+  title: "Softworks | Ai Boot",
   description: "AI Chat Assistant",
-    generator: 'v0.dev'
+    generator: 'Md Mirajul Islam'
 }
 
 export default function RootLayout({
